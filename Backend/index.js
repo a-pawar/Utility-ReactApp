@@ -1,5 +1,5 @@
 const express = require("express");
-const todoRoutes = require("./todoRoutes");
+const todoRoutes = require("./Routes/todoRoutes");
 const cors = require("cors");
 const bodyParser = require('body-parser');
 
